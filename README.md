@@ -43,20 +43,14 @@
 ---
 
 ## 🌍 Connect With Me
-
 <p align="left">
-
 <a href="https://github.com/RN-Akash">
 <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github">
 </a>
-
 <a href="mailto:akash.rawat@zohomail.in">
 <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail">
 </a>
-
 </p>
-
----
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akash562&show_icons=true&theme=tokyonight" />
